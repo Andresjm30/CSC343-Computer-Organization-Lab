@@ -1,0 +1,12 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity mejia_alu_Dec5 is
+	port( opcode : in std_logic_vector(3 downto 0);
+			Ain, Bin : in std_logic_vector(31 downto 0);
+			result : out std_logic_vector(31 downto 0));
+end mejia_alu_Dec5;
+
+architecture arch of mejia_alu_Dec5 is
+
+ component megaddsub 

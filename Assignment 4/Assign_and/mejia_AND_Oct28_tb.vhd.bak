@@ -1,0 +1,16 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity mejia_AND_Oct28_tb is
+end mejia_AND_Oct28_tb;
+
+architecture arch_tb of mejia_AND_Oct28_tb is 
+	
+	component mejia_and_Oct28 port(
+		clk, ld, clr: in std_logic;
+		RSin, RTin:   in std_logic_vector(31 downto 0);
+		RDout:        out std_logic_vector(31 downto 0));
+	end mejia_and_Oct28;
+
+end arch_tb;

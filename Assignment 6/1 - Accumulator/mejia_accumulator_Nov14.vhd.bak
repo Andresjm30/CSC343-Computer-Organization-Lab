@@ -1,0 +1,10 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity mejia_accumulator_Nov14 is port(
+	clk, ld, clr, addsub: in std_logic;
+	A: in std_logic_vector(7 downto 0);
+	Z: out std_logic_vector(7 downto 0)
+	overflow: out std_logic);
+end mejia_accumulator_Nov14;

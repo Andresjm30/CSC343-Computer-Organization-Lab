@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Quartus Projects/Midterm Lab/Assignment1/Instruction_Memory
+Emejia_reg_file_nov7
+Z0 w1604801466
+Z1 DPx9 altera_mf 20 altera_mf_components 0 22 m2K6F5NmQKkFhQa^^]15g3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File
+Z5 8D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd
+Z6 FD:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd
+l0
+L43
+VTIfde9HWT7OlEmf5=QmG>2
+!s100 T5Wm2k]lLlRg_cY6_Sk5I1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1604981998
+!i10b 1
+Z9 !s108 1604981997.000000
+Z10 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd|
+Z11 !s107 D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd|
+!i113 1
+Z12 o-work mejia_work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Asyn
+R1
+R2
+R3
+Z14 DEx4 work 19 mejia_reg_file_nov7 0 22 TIfde9HWT7OlEmf5=QmG>2
+l64
+L59
+Z15 VE5ngXa9d:MoQhRjOQ9U3L2
+Z16 !s100 cDH8GR8?DfDPa0[FCSZN`0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emejia_reg_file_nov7_tb
+Z17 w1604807711
+R2
+R3
+R4
+Z18 8D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd
+Z19 FD:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd
+l0
+L4
+VBZVIlNE@8ddX1DTDLnkGb2
+!s100 hHEbcZ9AIl0KQi@68KURU0
+R7
+32
+Z20 !s110 1604981997
+!i10b 1
+R9
+Z21 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd|
+Z22 !s107 D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd|
+!i113 1
+R12
+R13
+Aarch_tb
+R2
+R3
+DEx4 work 22 mejia_reg_file_nov7_tb 0 22 BZVIlNE@8ddX1DTDLnkGb2
+l30
+L7
+VYmaI<PTVJgPb^5<n:AUh]2
+!s100 0z2CX1T2<RojmPBfOokIc3
+R7
+32
+R20
+!i10b 1
+R9
+R21
+R22
+!i113 1
+R12
+R13

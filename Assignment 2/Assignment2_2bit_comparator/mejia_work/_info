@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_2bit_comparator
+Emejia_equal
+Z1 w1600655842
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_2bit_comparator/mejia_equal.vhd
+Z5 FD:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_2bit_comparator/mejia_equal.vhd
+l0
+L4
+VNcl?TiBY52^^BLlC71NLi3
+!s100 ceA@QQ7g`DP^HJ4RAYN`o0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1600817434
+!i10b 1
+Z8 !s108 1600817433.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_2bit_comparator/mejia_equal.vhd|
+Z10 !s107 D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_2bit_comparator/mejia_equal.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amejia_arch
+R2
+R3
+Z13 DEx4 work 11 mejia_equal 0 22 Ncl?TiBY52^^BLlC71NLi3
+l11
+L9
+Z14 VVXG@CU>?X7j4V1=>@3h`g0
+Z15 !s100 eCd_BUj`YP7EVYK@Ek9]m0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emejia_test_two_bit_equal
+Z16 w1600652039
+R2
+R3
+R0
+Z17 8D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_test_two_bit_equal.vhd
+Z18 FD:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_test_two_bit_equal.vhd
+l0
+L4
+Vl5>oElZjA8L2MLK=3dB0d2
+!s100 6aBf9<7EGQR7<I8??M2Y`2
+R6
+32
+Z19 !s110 1600652044
+!i10b 1
+Z20 !s108 1600652044.000000
+Z21 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_test_two_bit_equal.vhd|
+Z22 !s107 D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_test_two_bit_equal.vhd|
+!i113 1
+Z23 o-work mejia_work -2002 -explicit
+R12
+Aarch_test
+R2
+R3
+DEx4 work 24 mejia_test_two_bit_equal 0 22 l5>oElZjA8L2MLK=3dB0d2
+l15
+L7
+VoTVYSLbm:SMS?>2Q6FKGM0
+!s100 >dhL5o:4o<4[n4l>Mm7ZR2
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R23
+R12
+Emejia_two_bit_equal
+Z24 w1600634990
+R2
+R3
+R0
+Z25 8D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal.vhd
+Z26 FD:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal.vhd
+l0
+L4
+VBAz1D_8@PcLnaX;26E9G<1
+!s100 S>j:9?[k^ZZ9T;[LlL6ji3
+R6
+32
+Z27 !s110 1600634993
+!i10b 1
+Z28 !s108 1600634993.000000
+Z29 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal.vhd|
+Z30 !s107 D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal.vhd|
+!i113 1
+R23
+R12
+Aarch
+R2
+R3
+DEx4 work 19 mejia_two_bit_equal 0 22 BAz1D_8@PcLnaX;26E9G<1
+l11
+L9
+VzeSS7Po`I7MoKe9GR7n6C0
+!s100 7f32V5Cz63I^[i3bj>>KF0
+R6
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R23
+R12
+Emejia_two_bit_equal_port
+Z31 w1600651977
+R2
+R3
+R0
+Z32 8D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal_port.vhd
+Z33 FD:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal_port.vhd
+l0
+L4
+VA[FkkDQ>n9Qf=DZ9ibGOP1
+!s100 bRPmAm]Y>:aMNR1B^C;Ni1
+R6
+32
+Z34 !s110 1600651980
+!i10b 1
+Z35 !s108 1600651980.000000
+Z36 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal_port.vhd|
+Z37 !s107 D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_2bit_comparator\mejia_two_bit_equal_port.vhd|
+!i113 1
+R23
+R12
+Aarch
+R2
+R3
+DEx4 work 24 mejia_two_bit_equal_port 0 22 A[FkkDQ>n9Qf=DZ9ibGOP1
+l17
+L9
+Vz5<2FMTP92Ii;6XAgCP9;0
+!s100 oS_V]YLE8]AN@3VGGYk=73
+R6
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R23
+R12

@@ -1,0 +1,36 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Assignment 7/mejia_jason_Load_store_files_Nov28.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Assignment 7/mejia_jason_Load_store_files_Nov28.qar
+Date:		Wed Dec 02 02:56:27 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Assignment 7/Waveform.vwf
+D:/Documents/Quartus Projects/Assignment 7/Waveform1.vwf
+D:/Documents/Quartus Projects/Assignment 7/mejia_data_mem_Nov28.cmp
+D:/Documents/Quartus Projects/Assignment 7/mejia_data_mem_Nov28.mif
+D:/Documents/Quartus Projects/Assignment 7/mejia_data_mem_Nov28.qip
+D:/Documents/Quartus Projects/Assignment 7/mejia_data_mem_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_extend_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_inst_mem_Nov28.cmp
+D:/Documents/Quartus Projects/Assignment 7/mejia_inst_mem_Nov28.mif
+D:/Documents/Quartus Projects/Assignment 7/mejia_inst_mem_Nov28.qip
+D:/Documents/Quartus Projects/Assignment 7/mejia_inst_mem_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_lw_Nov29.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_megaddsub_Nov28.cmp
+D:/Documents/Quartus Projects/Assignment 7/mejia_megaddsub_Nov28.qip
+D:/Documents/Quartus Projects/Assignment 7/mejia_megaddsub_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_mux_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_reg_file_Nov28.cmp
+D:/Documents/Quartus Projects/Assignment 7/mejia_reg_file_Nov28.mif
+D:/Documents/Quartus Projects/Assignment 7/mejia_reg_file_Nov28.qip
+D:/Documents/Quartus Projects/Assignment 7/mejia_reg_file_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_register16_Nov28.vhd
+D:/Documents/Quartus Projects/Assignment 7/mejia_sw_Nov28.qpf
+D:/Documents/Quartus Projects/Assignment 7/mejia_sw_Nov28.qsf
+D:/Documents/Quartus Projects/Assignment 7/mejia_sw_Nov28.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

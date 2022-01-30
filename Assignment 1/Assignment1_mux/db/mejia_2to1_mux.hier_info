@@ -1,0 +1,7 @@
+|mejia_2to1_mux
+x1 => f.DATAB
+x2 => f.DATAA
+s => f.OUTPUTSELECT
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+
+

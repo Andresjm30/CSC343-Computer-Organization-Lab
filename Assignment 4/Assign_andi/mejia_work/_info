@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Quartus Projects/Assignment 4/Assign_and
+Emejia_and_op_oct28
+Z0 w1603982606
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Quartus Projects/Assignment 4/Assign_andi
+Z4 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_and_op_Oct28.vhd
+Z5 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_and_op_Oct28.vhd
+l0
+L4
+V:Jck]LOmHz06MlJL9NCYe1
+!s100 NZ4KSa20`kYeg=`VRmUYG2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1604252749
+!i10b 1
+Z8 !s108 1604252749.000000
+Z9 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_and_op_Oct28.vhd|
+Z10 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_and_op_Oct28.vhd|
+!i113 1
+Z11 o-work mejia_work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 18 mejia_and_op_oct28 0 22 :Jck]LOmHz06MlJL9NCYe1
+l12
+L10
+Vj5>aHPP:lIzQMB_DoaPS92
+!s100 PCZ@QF9IDF>[3==UN@?iA1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emejia_andi_oct28
+Z13 w1603984266
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28.vhd
+Z16 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28.vhd
+l0
+L5
+V3j^?@bcWgc_<?NEL696j20
+!s100 fGBWREMAiZW3AQVL;3b:[2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28.vhd|
+Z18 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28.vhd|
+!i113 1
+R11
+R12
+Aarch
+R14
+R1
+R2
+DEx4 work 16 mejia_andi_oct28 0 22 3j^?@bcWgc_<?NEL696j20
+l47
+L13
+V]FC2k=dK>EGMi=;294V7k2
+!s100 AM13UR6Mif<LWi>hR`<[[2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Emejia_andi_oct28_tb
+Z19 w1604252340
+R14
+R1
+R2
+R3
+Z20 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28_tb.vhd
+Z21 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28_tb.vhd
+l0
+L5
+VV^QG^ajR<zn?oR9_[XBH@0
+!s100 ^2TYI1B5YX53@<ANkOGW;0
+R6
+32
+Z22 !s110 1604252750
+!i10b 1
+Z23 !s108 1604252750.000000
+Z24 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28_tb.vhd|
+Z25 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_andi_Oct28_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_tb
+R14
+R1
+R2
+DEx4 work 19 mejia_andi_oct28_tb 0 22 V^QG^ajR<zn?oR9_[XBH@0
+l22
+L8
+V4_2[d5Jdc]FfkSg@EYi553
+!s100 FXTDnC;aalHG;`@TDN_IM2
+R6
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R11
+R12
+Emejia_extend_oct28
+Z26 w1603982284
+R14
+R1
+R2
+R3
+Z27 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_extend_Oct28.vhd
+Z28 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_extend_Oct28.vhd
+l0
+L5
+V]DblLLJLD3O7JfEzIde7:0
+!s100 <kV9?`<C;P4^?_`]hPa<U3
+R6
+32
+R22
+!i10b 1
+R23
+Z29 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_extend_Oct28.vhd|
+Z30 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_extend_Oct28.vhd|
+!i113 1
+R11
+R12
+Aarch
+R14
+R1
+R2
+DEx4 work 18 mejia_extend_oct28 0 22 ]DblLLJLD3O7JfEzIde7:0
+l12
+L11
+VPPF<iWd^hF4OoW1Fcolbd1
+!s100 oI?aj0aQ7]5IEBU5@TB`H2
+R6
+32
+R22
+!i10b 1
+R23
+R29
+R30
+!i113 1
+R11
+R12
+Emejia_register16_oct28
+Z31 w1603981011
+R1
+R2
+R3
+Z32 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register16_Oct28.vhd
+Z33 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register16_Oct28.vhd
+l0
+L4
+VGA99kea1bm<?]YFb2I`Fa3
+!s100 EE`d=DSO`]CU4ZnzR1GzS0
+R6
+32
+R22
+!i10b 1
+R23
+Z34 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register16_Oct28.vhd|
+Z35 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register16_Oct28.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 22 mejia_register16_oct28 0 22 GA99kea1bm<?]YFb2I`Fa3
+l13
+L11
+V>V;hkkIme58]<]1afKUB43
+!s100 3_ZVB]65`4YdV^;_dQ2JV2
+R6
+32
+R22
+!i10b 1
+R23
+R34
+R35
+!i113 1
+R11
+R12
+Emejia_register32_oct28
+Z36 w1603980733
+R1
+R2
+R3
+Z37 8D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register32_Oct28.vhd
+Z38 FD:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register32_Oct28.vhd
+l0
+L4
+VjIe:O_SUj<lKncN^Q6Mm[2
+!s100 d;888cmV`6InNT40EFG^k2
+R6
+32
+R7
+!i10b 1
+R8
+Z39 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register32_Oct28.vhd|
+Z40 !s107 D:/Documents/Quartus Projects/Assignment 4/Assign_andi/mejia_register32_Oct28.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 22 mejia_register32_oct28 0 22 jIe:O_SUj<lKncN^Q6Mm[2
+l12
+L11
+VAHeV;]]W5USX;<B=VRh[E3
+!s100 @zTN=ioDM@0h>M^ja?9SG1
+R6
+32
+R7
+!i10b 1
+R8
+R39
+R40
+!i113 1
+R11
+R12

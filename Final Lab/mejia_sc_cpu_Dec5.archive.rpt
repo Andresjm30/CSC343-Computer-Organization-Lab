@@ -1,0 +1,117 @@
+Archive Project report for mejia_sc_cpu_Dec5
+Sun Dec 13 23:05:47 2020
+Quartus Prime Version 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2016  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Sun Dec 13 23:05:47 2020 ;
+; Revision Name          ; mejia_sc_cpu_Dec5                     ;
+; Top-level Entity Name  ; mejia_sc_cpu_Dec5                     ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory D:/Documents/Quartus Projects/Final Lab/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'D:/Documents/Quartus Projects/Final Lab/mejia_sc_cpu_Dec5.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'mejia_sc_cpu_Dec5.archive.rpt'
+Info (23030): Evaluation of Tcl script d:/programs/intelfpga_lite/16.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4827 megabytes
+    Info: Processing ended: Sun Dec 13 23:05:47 2020
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-----------------------------------------------------------------------+
+; Files Archived                                                        ;
++-----------------------------------------------------------------------+
+; File Name                                                             ;
++-----------------------------------------------------------------------+
+; d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf ;
+; mejia_alu_Dec5.vhd                                                    ;
+; mejia_and32_Dec5.vhd                                                  ;
+; mejia_and_Dec5.vhd                                                    ;
+; mejia_and_op_Dec5.vhd                                                 ;
+; mejia_arr_mult2_Dec5.vhd                                              ;
+; mejia_compare_Dec5.cmp                                                ;
+; mejia_compare_Dec5.qip                                                ;
+; mejia_compare_Dec5.vhd                                                ;
+; mejia_control_Dec5.vhd                                                ;
+; mejia_data_mem_Dec5.cmp                                               ;
+; mejia_data_mem_Dec5.mif                                               ;
+; mejia_data_mem_Dec5.qip                                               ;
+; mejia_data_mem_Dec5.vhd                                               ;
+; mejia_div_Dec5.cmp                                                    ;
+; mejia_div_Dec5.qip                                                    ;
+; mejia_div_Dec5.vhd                                                    ;
+; mejia_extend_Dec5.vhd                                                 ;
+; mejia_inst_mem_Dec5.cmp                                               ;
+; mejia_inst_mem_Dec5.mif                                               ;
+; mejia_inst_mem_Dec5.qip                                               ;
+; mejia_inst_mem_Dec5.vhd                                               ;
+; mejia_megaddsub_Dec5.cmp                                              ;
+; mejia_megaddsub_Dec5.qip                                              ;
+; mejia_megaddsub_Dec5.vhd                                              ;
+; mejia_mux_Dec5.vhd                                                    ;
+; mejia_nbadder_Dec5.cmp                                                ;
+; mejia_nbadder_Dec5.qip                                                ;
+; mejia_nbadder_Dec5.vhd                                                ;
+; mejia_or_op_Dec5.vhd                                                  ;
+; mejia_pcadder_Dec5.cmp                                                ;
+; mejia_pcadder_Dec5.qip                                                ;
+; mejia_pcadder_Dec5.vhd                                                ;
+; mejia_reg_file_Dec5.cmp                                               ;
+; mejia_reg_file_Dec5.mif                                               ;
+; mejia_reg_file_Dec5.qip                                               ;
+; mejia_reg_file_Dec5.vhd                                               ;
+; mejia_register32_Dec5.vhd                                             ;
+; mejia_sc_cpu_Dec5.qpf                                                 ;
+; mejia_sc_cpu_Dec5.qsf                                                 ;
+; mejia_sc_cpu_Dec5.vhd                                                 ;
+; Waveform.vwf                                                          ;
++-----------------------------------------------------------------------+
+
+

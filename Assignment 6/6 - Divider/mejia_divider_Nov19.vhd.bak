@@ -1,0 +1,26 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity mejia_divider_Nov19 is
+	port ( clk, ld, clr: in std_logic;
+			 Ain, Bin:     in std_logic_vector(31 downto 0);
+			 Qout, Rout:   out std_logic_vector(31 downto 0));
+end mejia_arr_divider_Nov19;
+
+architecture arch of mejia_divider_Nov19 is
+
+	component mejia_register32_Nov16 
+		port( d:            IN std_logic_vector(31 downto 0);
+				ld, clr, clk: IN std_logic;
+				q:            OUT std_logic_vector(31 downto 0));
+	end component;
+	
+	component mejia_div32_Nov19 is
+		port( M, Bi, OKi : in STD_LOGIC;
+				Si : in std_logic_vector(31 downto 0);
+				OKo : out STD_LOGIC;
+				D, So : out std_logic_vector(31 downto 0));
+	end component;
+	
+	signal A32, B32, Q32, R32 : std_logic_vector(31 downto 0);
+	signal b : std_logic:= '0';

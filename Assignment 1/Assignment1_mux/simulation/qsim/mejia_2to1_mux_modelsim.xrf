@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, D:/Programs/intelFPGA_lite/16.1/Projects/Assignment1_mux/mejia_2to1_mux.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, D:/Programs/intelFPGA_lite/16.1/Projects/Assignment1_mux/db/mejia_2to1_mux.cbx.xml
+design_name = mejia_2to1_mux
+instance = comp, \f~output\, f~output, mejia_2to1_mux, 1
+instance = comp, \s~input\, s~input, mejia_2to1_mux, 1
+instance = comp, \x1~input\, x1~input, mejia_2to1_mux, 1
+instance = comp, \x2~input\, x2~input, mejia_2to1_mux, 1
+instance = comp, \f~0\, f~0, mejia_2to1_mux, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, mejia_2to1_mux, 1

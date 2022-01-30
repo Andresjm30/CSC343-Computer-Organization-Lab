@@ -1,0 +1,37 @@
+{D:/Documents/Quartus Projects/Assignm3_Adder/Adder32.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Adder/Adder32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mejia_add32
+-- Compiling architecture arch of mejia_add32
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_adder
+-- Compiling architecture arch of mejia_adder
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_adder_tb
+-- Compiling architecture arch_tb of mejia_adder_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Adder/register32.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Adder/register32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_reg_32
+-- Compiling architecture arch of mejia_reg_32
+
+} {} {}}

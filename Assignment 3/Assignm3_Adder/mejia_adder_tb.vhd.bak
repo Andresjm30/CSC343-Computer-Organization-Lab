@@ -1,0 +1,8 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity mejia_adder_tb is
+end mejia_adder_tb;
+
+architecture arch_tb of mejia_BEQ_tb is

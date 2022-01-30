@@ -1,0 +1,54 @@
+{D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_addi_Oct28_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_addi_Oct28_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_addi_Oct28_tb
+-- Compiling architecture arch_tb of mejia_addi_Oct28_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_add_op_Oct28.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_add_op_Oct28.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mejia_add_op_Oct28
+-- Compiling architecture arch of mejia_add_op_Oct28
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_register16_Oct28.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_register16_Oct28.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_register16_Oct28
+-- Compiling architecture arch of mejia_register16_Oct28
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_extend_Oct28.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_extend_Oct28.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_extend_Oct28
+-- Compiling architecture arch of mejia_extend_Oct28
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_addi_Oct28.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_addi_Oct28.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_addi_Oct28
+-- Compiling architecture arch of mejia_addi_Oct28
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_register32_Oct28.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 4/Assign_addi/mejia_register32_Oct28.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_register32_Oct28
+-- Compiling architecture arch of mejia_register32_Oct28
+
+} {} {}}

@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/Assignment 6/Assignment6/simulation/qsim
+Emejia_divider_nov19
+Z1 w1606098517
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z11 8mejia_assign6_Nov19.vho
+Z12 Fmejia_assign6_Nov19.vho
+l0
+L39
+V4Wb52f6D57O`Nz7kEO4WK0
+!s100 <L_@=B:o>dfR^cR=m2ah=2
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1606098520
+!i10b 1
+Z15 !s108 1606098520.000000
+Z16 !s90 -work|work|mejia_assign6_Nov19.vho|
+Z17 !s107 mejia_assign6_Nov19.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 19 mejia_divider_nov19 0 22 4Wb52f6D57O`Nz7kEO4WK0
+l4428
+L185
+VMfdXjJ:3kV<P9QS3dU^Nj3
+!s100 D[AV4^D5>oel4LQQSJCG[2
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Emejia_divider_nov19_vhd_vec_tst
+Z20 w1606098514
+R8
+R9
+R0
+Z21 8Waveform.vwf.vht
+Z22 FWaveform.vwf.vht
+l0
+L32
+VmX701df?FQCFFTfG7GX[c3
+!s100 I1QdWWK1gZ3Bd2OA``Qej0
+R13
+32
+Z23 !s110 1606098521
+!i10b 1
+Z24 !s108 1606098521.000000
+Z25 !s90 -work|work|Waveform.vwf.vht|
+Z26 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Amejia_divider_nov19_arch
+R8
+R9
+DEx4 work 31 mejia_divider_nov19_vhd_vec_tst 0 22 mX701df?FQCFFTfG7GX[c3
+l55
+L34
+Vm8HD?Q_UXahBiN>l3;P>g1
+!s100 dLfB25P0;ZfI1bnUff>FI0
+R13
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R18
+R19

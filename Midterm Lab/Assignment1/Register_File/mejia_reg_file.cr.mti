@@ -1,0 +1,18 @@
+{D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_reg_file_Nov7_tb
+-- Compiling architecture arch_tb of mejia_reg_file_Nov7_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity mejia_reg_file_Nov7
+-- Compiling architecture SYN of mejia_reg_file_nov7
+
+} {} {}}

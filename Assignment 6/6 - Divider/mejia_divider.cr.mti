@@ -1,0 +1,83 @@
+{D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_div32_Nov19
+-- Compiling architecture arch of mejia_div32_Nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity mejia_mux2to1_Nov19
+-- Compiling architecture SYN of mejia_mux2to1_nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_divider2_Nov19
+-- Compiling architecture arch of mejia_divider2_Nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_FS_Nov19
+-- Compiling architecture arch of mejia_FS_Nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_not_Nov19
+-- Compiling architecture arch of mejia_not_Nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_divider2_Nov19_tb
+-- Compiling architecture arch_tb of mejia_divider2_Nov19_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_divide32_Nov19
+-- Compiling architecture SYN of mejia_divide32_nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_register32_Nov16
+-- Compiling architecture arch of mejia_register32_Nov16
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_div_Nov19
+-- Compiling architecture arch of mejia_div_Nov19
+
+} {} {}} {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_divider_Nov19
+-- Compiling architecture arch of mejia_divider_Nov19
+
+} {} {}}

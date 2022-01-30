@@ -1,0 +1,209 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File
+Emejia_accumulator_nov14
+Z0 w1606001616
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator
+Z5 8D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14.vhd
+Z6 FD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14.vhd
+l0
+L5
+VDEGejT]7b;;l;456BQ=2R0
+!s100 QgE`H9J[Dzi:jj@iai:IX0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1606073603
+!i10b 1
+Z9 !s108 1606073603.000000
+Z10 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14.vhd|
+Z11 !s107 D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14.vhd|
+!i113 1
+Z12 o-work mejia_work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+DEx4 work 23 mejia_accumulator_nov14 0 22 DEGejT]7b;;l;456BQ=2R0
+l35
+L12
+VbQ8z>>AJ`_YZkKY9W71TC2
+!s100 kLTVOJf=@P6kZOMj2MYO]2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emejia_accumulator_nov14_tb
+Z14 w1606073597
+R1
+R2
+R3
+R4
+Z15 8D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14_tb.vhd
+Z16 FD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14_tb.vhd
+l0
+L5
+VXm`UAGga37gjlY>E>A6hR2
+!s100 OcoO4;eAE^8=;Ml9ASlej3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14_tb.vhd|
+Z18 !s107 D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_accumulator_Nov14_tb.vhd|
+!i113 1
+R12
+R13
+Aarch_tb
+R1
+R2
+R3
+DEx4 work 26 mejia_accumulator_nov14_tb 0 22 Xm`UAGga37gjlY>E>A6hR2
+l22
+L8
+VGFU:=WL]6fWlm>PRL:3DX1
+!s100 ``k76QPnTMf;[:1007QO^2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Emejia_addsub_nov14
+Z19 w1606008052
+R2
+R3
+R4
+Z20 8D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_addsub_Nov14.vhd
+Z21 FD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_addsub_Nov14.vhd
+l0
+L43
+VePVM1RP<2dA1_X:Z>@MJ02
+!s100 EcS<M2D^fDe[_`28B4<LL3
+R7
+32
+Z22 !s110 1606073604
+!i10b 1
+Z23 !s108 1606073604.000000
+Z24 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_addsub_Nov14.vhd|
+Z25 !s107 D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_addsub_Nov14.vhd|
+!i113 1
+R12
+R13
+Asyn
+R2
+R3
+DEx4 work 18 mejia_addsub_nov14 0 22 ePVM1RP<2dA1_X:Z>@MJ02
+l79
+L55
+VJkkT9C^3he00I7;AJ7]7V3
+!s100 g;K<USlAP;Ya=UbIbEOeZ2
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Emejia_register32_nov14
+Z26 w1605409698
+R2
+R3
+R4
+Z27 8D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register32_Nov14.vhd
+Z28 FD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register32_Nov14.vhd
+l0
+L4
+VL@mi<j]PnRo_KcBZN2AiX0
+!s100 h]a`QOcYbDa=ng_9bi6l=3
+R7
+32
+Z29 !s110 1605477027
+!i10b 1
+Z30 !s108 1605477027.000000
+Z31 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register32_Nov14.vhd|
+Z32 !s107 D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register32_Nov14.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 22 mejia_register32_nov14 0 22 L@mi<j]PnRo_KcBZN2AiX0
+l12
+L11
+VgjiBH5?43U1jiaIMjlNnf2
+!s100 R;W@55GTGC=ZB32HEhh]H1
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Emejia_register_nov14
+Z33 w1606001673
+R2
+R3
+R4
+Z34 8D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register_Nov14.vhd
+Z35 FD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register_Nov14.vhd
+l0
+L4
+VS8M0P487T?6<nfC_0TlV=0
+!s100 TYoY>ZYGl^gbH7<hg]7jH3
+R7
+32
+R22
+!i10b 1
+R23
+Z36 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register_Nov14.vhd|
+Z37 !s107 D:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/mejia_register_Nov14.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+Z38 DEx4 work 20 mejia_register_nov14 0 22 S8M0P487T?6<nfC_0TlV=0
+l13
+L12
+Z39 Vme[[KU[<Lz54?aE;D>6Cm1
+Z40 !s100 CV0n>Fkn^;=gH@fm49;F10
+R7
+32
+R22
+!i10b 1
+R23
+R36
+R37
+!i113 1
+R12
+R13

@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/Assignment 6/1 - Accumulator/simulation/qsim
+Emejia_accumulator_nov14
+Z1 w1606001888
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z11 8mejia_accumulator_Nov14.vho
+Z12 Fmejia_accumulator_Nov14.vho
+l0
+L39
+VJ];[J^beh]2YO9nAkiB1U3
+!s100 bMIeEnWVHYAeNiaJRP@z]1
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1606001889
+!i10b 1
+Z15 !s108 1606001889.000000
+Z16 !s90 -work|work|mejia_accumulator_Nov14.vho|
+Z17 !s107 mejia_accumulator_Nov14.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 23 mejia_accumulator_nov14 0 22 J];[J^beh]2YO9nAkiB1U3
+l128
+L75
+V@k:23<g2[HL^FCo^hiO`j2
+!s100 K9oGackT2@8=b6GW<e3]z1
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Emejia_accumulator_nov14_vhd_vec_tst
+Z20 w1606001885
+R8
+R9
+R0
+Z21 8Waveform.vwf.vht
+Z22 FWaveform.vwf.vht
+l0
+L32
+VjcYUIHXJ:h<GJDjhfJ:YH3
+!s100 8FJ1@Ed5OW5QzdXWO7czC2
+R13
+32
+Z23 !s110 1606001890
+!i10b 1
+R15
+Z24 !s90 -work|work|Waveform.vwf.vht|
+Z25 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Amejia_accumulator_nov14_arch
+R8
+R9
+Z26 DEx4 work 35 mejia_accumulator_nov14_vhd_vec_tst 0 22 jcYUIHXJ:h<GJDjhfJ:YH3
+l55
+L34
+VB6Y_dzkmIhnUcc7E]fZc81
+!s100 NgWL1CMOdJ8h3eSfB>GlX0
+R13
+32
+R23
+!i10b 1
+R15
+R24
+R25
+!i113 1
+R18
+R19

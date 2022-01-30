@@ -1,0 +1,76 @@
+# do mejia_sc_cpu_Dec5.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:43:04 on Dec 13,2020
+# vcom -work work mejia_sc_cpu_Dec5.vho 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package VITAL_Timing
+# -- Loading package VITAL_Primitives
+# -- Loading package dffeas_pack
+# -- Loading package altera_primitives_components
+# -- Loading package altera_lnsim_components
+# -- Loading package cyclonev_atom_pack
+# -- Loading package cyclonev_components
+# -- Compiling entity mejia_sc_cpu_Dec5
+# -- Compiling architecture structure of mejia_sc_cpu_Dec5
+# End time: 18:43:05 on Dec 13,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:43:05 on Dec 13,2020
+# vcom -work work Waveform.vwf.vht 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mejia_sc_cpu_Dec5_vhd_vec_tst
+# -- Compiling architecture mejia_sc_cpu_Dec5_arch of mejia_sc_cpu_Dec5_vhd_vec_tst
+# End time: 18:43:06 on Dec 13,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev -L altera -L altera_mf -L 220model -L sgate -L altera_lnsim work.mejia_sc_cpu_Dec5_vhd_vec_tst 
+# Start time: 18:43:06 on Dec 13,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mejia_sc_cpu_dec5_vhd_vec_tst(mejia_sc_cpu_dec5_arch)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading altera.dffeas_pack
+# Loading altera.altera_primitives_components
+# Loading altera_lnsim.altera_lnsim_components
+# Loading cyclonev.cyclonev_atom_pack(body)
+# Loading cyclonev.cyclonev_components
+# Loading work.mejia_sc_cpu_dec5(structure)
+# Loading ieee.std_logic_arith(body)
+# Loading cyclonev.cyclonev_io_obuf(arch)
+# Loading cyclonev.cyclonev_io_ibuf(arch)
+# Loading cyclonev.cyclonev_clkena(behavior)
+# Loading cyclonev.cyclonev_lcell_comb(vital_lcell_comb)
+# Loading cyclonev.cyclonev_ram_block(block_arch)
+# Loading sv_std.std
+# Loading altera_lnsim.generic_m10k
+# Loading altera_lnsim.altera_lnsim_functions
+# Loading altera_lnsim.common_28nm_ram_block
+# Loading altera_lnsim.common_28nm_ram_register
+# Loading altera_lnsim.common_28nm_ram_pulse_generator
+# Loading altera.dffeas(vital_dffeas)
+# ** Warning: Design size of 607011 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# after#34
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 0 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# Simulation time: 335001 ps
+# End time: 18:43:46 on Dec 13,2020, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 1

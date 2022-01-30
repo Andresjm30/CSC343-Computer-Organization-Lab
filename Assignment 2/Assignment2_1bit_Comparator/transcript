@@ -1,0 +1,160 @@
+# Loading project mejia_one_bit_comparator
+# Compile of mejia_equal.vhd was successful.
+vsim mejia_work.mejia_equal
+# vsim mejia_work.mejia_equal 
+# Start time: 16:56:25 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_equal(mejia_arch)
+add wave -position end  sim:/mejia_equal/I0
+add wave -position end  sim:/mejia_equal/I1
+add wave -position end  sim:/mejia_equal/Eq
+add wave -position end  sim:/mejia_equal/p0
+add wave -position end  sim:/mejia_equal/p1
+force -freeze sim:/mejia_equal/I0 0 0
+force -freeze sim:/mejia_equal/I0 0 0
+force -freeze sim:/mejia_equal/I1 0 0
+run
+force -freeze sim:/mejia_equal/I0 1 0
+run
+force -freeze sim:/mejia_equal/I0 0 0
+force -freeze sim:/mejia_equal/I1 1 0
+run
+force -freeze sim:/mejia_equal/I0 1 0
+force -freeze sim:/mejia_equal/I1 1 0
+run
+quit -sim
+# End time: 18:01:14 on Sep 19,2020, Elapsed time: 1:04:49
+# Errors: 0, Warnings: 0
+# Compile of mejia_test_equal.vhd failed with 4 errors.
+# Compile of mejia_test_equal.vhd was successful.
+vsim mejia_work.mejia_test_equal
+# vsim mejia_work.mejia_test_equal 
+# Start time: 18:36:02 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_test_equal(mejia_arch_test)
+# ** Warning: (vsim-3473) Component instance "uut : equal" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /mejia_test_equal File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+add wave -position end  sim:/mejia_test_equal/p1
+add wave -position end  sim:/mejia_test_equal/p0
+add wave -position end  sim:/mejia_test_equal/pout
+add wave -position end  sim:/mejia_test_equal/error
+add wave -position insertpoint sim:/mejia_test_equal/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 48
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 1608 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 48
+# Break key hit
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 2412 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 48
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 3216 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 48
+force -freeze sim:/mejia_test_equal/pout 1 0
+run -all
+# ** Failure: Error detected
+#    Time: 4020 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 51
+run -continue
+# ** Failure: Error detected
+#    Time: 4824 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 51
+run -continue
+# ** Failure: Error detected
+#    Time: 5628 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 51
+run -continue
+# ** Failure: Error detected
+#    Time: 6432 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 51
+quit -sim
+# End time: 19:01:30 on Sep 19,2020, Elapsed time: 0:25:28
+# Errors: 4, Warnings: 1
+# Compile of mejia_test_equal.vhd was successful.
+vsim mejia_work.mejia_test_equal
+# vsim mejia_work.mejia_test_equal 
+# Start time: 19:02:49 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_test_equal(mejia_arch_test)
+# ** Warning: (vsim-3473) Component instance "uut : equal" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /mejia_test_equal File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+add wave -position insertpoint sim:/mejia_test_equal/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 49
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 1608 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 49
+restart
+quit -sim
+# End time: 19:20:29 on Sep 19,2020, Elapsed time: 0:17:40
+# Errors: 0, Warnings: 1
+# Compile of mejia_test_equal.vhd was successful.
+vsim mejia_work.mejia_test_equal
+# vsim mejia_work.mejia_test_equal 
+# Start time: 19:21:06 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_test_equal(mejia_arch_test)
+# ** Warning: (vsim-3473) Component instance "uut : equal" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /mejia_test_equal File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+add wave -position insertpoint sim:/mejia_test_equal/*
+force -freeze sim:/mejia_test_equal/p1 0 0
+force -freeze sim:/mejia_test_equal/p0 1 0
+run
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 49
+quit -sim
+# End time: 19:22:35 on Sep 19,2020, Elapsed time: 0:01:29
+# Errors: 0, Warnings: 1
+# Load canceled
+# Compile of mejia_test_equal.vhd was successful.
+vsim mejia_work.mejia_test_equal
+# vsim mejia_work.mejia_test_equal 
+# Start time: 19:25:07 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_test_equal(mejia_arch_test)
+# ** Warning: (vsim-3473) Component instance "uut : equal" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /mejia_test_equal File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+add wave -position insertpoint sim:/mejia_test_equal/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 49
+quit -sim
+# End time: 19:30:41 on Sep 19,2020, Elapsed time: 0:05:34
+# Errors: 0, Warnings: 1
+# Compile of mejia_test_equal.vhd failed with 2 errors.
+# Compile of mejia_test_equal.vhd was successful.
+vsim mejia_work.mejia_test_equal
+# vsim mejia_work.mejia_test_equal 
+# Start time: 19:32:25 on Sep 19,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading mejia_work.mejia_test_equal(mejia_arch_test)
+# Loading mejia_work.mejia_equal(mejia_arch)
+add wave -position insertpoint sim:/mejia_test_equal/*
+run -all
+# ** Failure: No errors detected. Simulation successful
+#    Time: 804 ns  Iteration: 0  Process: /mejia_test_equal/line__18 File: D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd
+# Break in Process line__18 at D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_test_equal.vhd line 49

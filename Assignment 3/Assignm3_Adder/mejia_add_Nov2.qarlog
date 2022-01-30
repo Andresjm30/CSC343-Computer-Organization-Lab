@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Assignm3_Adder/mejia_add_Nov2.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Assignm3_Adder/mejia_add_Nov2.qar
+Date:		Sun Nov 01 23:41:11 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Assignm3_Adder/Adder32.vhd
+D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder.qpf
+D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder.qsf
+D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder.vhd
+D:/Documents/Quartus Projects/Assignm3_Adder/mejia_adder_tb.vhd
+D:/Documents/Quartus Projects/Assignm3_Adder/register32.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

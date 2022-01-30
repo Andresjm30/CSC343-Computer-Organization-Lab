@@ -1,0 +1,9 @@
+D:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator/mejia_equal.vhd {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_equal.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_equal
+-- Compiling architecture mejia_arch of mejia_equal
+
+} {} {}}

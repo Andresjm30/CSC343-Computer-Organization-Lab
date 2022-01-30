@@ -1,0 +1,47 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Assignment 6/Assignment6/Mejia_Jason_Accu_Mult_Div_Nov23.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Assignment 6/Assignment6/Mejia_Jason_Accu_Mult_Div_Nov23.qar
+Date:		Sun Nov 22 23:06:47 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/Waveform.vwf
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_FS_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_accumulator_Nov14.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_accumulator_Nov14_tb.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_addsub_Nov14.cmp
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_addsub_Nov14.qip
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_addsub_Nov14.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_and32_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_and_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_arr_mult2_Nov17.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_arr_mult2_Nov17_tb.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_arr_mult_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_arr_mult_Nov16_tb.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_assign6_Nov19.qpf
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_assign6_Nov19.qsf
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_div32_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_div_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divide32_Nov19.cmp
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divide32_Nov19.qip
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divide32_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divider2_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divider2_Nov19_tb.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_divider_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_fulladd32_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_fulladd_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_mux2to1_Nov19.cmp
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_mux2to1_Nov19.qip
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_mux2to1_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_nbadder_Nov17.cmp
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_nbadder_Nov17.qip
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_nbadder_Nov17.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_not_Nov19.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_register32_Nov16.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_register_Nov14.vhd
+D:/Documents/Quartus Projects/Assignment 6/Assignment6/mejia_regsiter64_Nov16.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 36 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

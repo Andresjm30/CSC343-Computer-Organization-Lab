@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, D:/Programs/intelFPGA_lite/16.1/Projects/Assignment1_fulladder/mejia_fulladder.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/programs/intelfpga_lite/16.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, D:/Programs/intelFPGA_lite/16.1/Projects/Assignment1_fulladder/db/mejia_fulladder.cbx.xml
+design_name = mejia_fulladder
+instance = comp, \S~output\, S~output, mejia_fulladder, 1
+instance = comp, \Cout~output\, Cout~output, mejia_fulladder, 1
+instance = comp, \A~input\, A~input, mejia_fulladder, 1
+instance = comp, \Cin~input\, Cin~input, mejia_fulladder, 1
+instance = comp, \B~input\, B~input, mejia_fulladder, 1
+instance = comp, \S~0\, S~0, mejia_fulladder, 1
+instance = comp, \Cout~0\, Cout~0, mejia_fulladder, 1
+instance = comp, \~QUARTUS_CREATED_GND~I\, ~QUARTUS_CREATED_GND~I, mejia_fulladder, 1

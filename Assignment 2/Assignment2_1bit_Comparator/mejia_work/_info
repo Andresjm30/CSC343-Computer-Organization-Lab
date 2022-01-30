@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/good_
+Emejia_equal
+Z0 w1600548892
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Programs/intelFPGA_lite/16.1/Projects/Assignment2_1bit_Comparator
+Z4 8D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_equal.vhd
+Z5 FD:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_equal.vhd
+l0
+L4
+V^obW73=R;Gf2RNe8?EiR:3
+!s100 ceA@QQ7g`DP^HJ4RAYN`o0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1600548904
+!i10b 1
+Z8 !s108 1600548903.000000
+Z9 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_equal.vhd|
+Z10 !s107 D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_equal.vhd|
+!i113 1
+Z11 o-work mejia_work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amejia_arch
+R1
+R2
+DEx4 work 11 mejia_equal 0 22 ^obW73=R;Gf2RNe8?EiR:3
+l11
+L9
+VgW7@JSoe2SEB>9O`mMnfD2
+!s100 eCd_BUj`YP7EVYK@Ek9]m0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emejia_test_equal
+Z13 w1600558292
+R1
+R2
+R3
+Z14 8D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_test_equal.vhd
+Z15 FD:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_test_equal.vhd
+l0
+L4
+Vn?__HHJnGidnBV0]HK2^93
+!s100 YQM^g>cC4_G5ANi=nMXbB1
+R6
+32
+Z16 !s110 1600558295
+!i10b 1
+Z17 !s108 1600558295.000000
+Z18 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_test_equal.vhd|
+Z19 !s107 D:\Programs\intelFPGA_lite\16.1\Projects\Assignment2_1bit_Comparator\mejia_test_equal.vhd|
+!i113 1
+R11
+R12
+Amejia_arch_test
+R1
+R2
+Z20 DEx4 work 16 mejia_test_equal 0 22 n?__HHJnGidnBV0]HK2^93
+l15
+L7
+Vd8iRW?EF61bV8[X@dDb=M3
+!s100 <<o3nI0Aa2dmk:HzHIX0b1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12

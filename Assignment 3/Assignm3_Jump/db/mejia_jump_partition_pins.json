@@ -1,0 +1,205 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PCout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[15]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[16]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[17]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[18]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[19]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[20]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[21]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[22]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[23]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[24]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[25]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[26]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[27]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[28]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[29]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[30]",
+					"strict" : false
+				},
+				{
+					"name" : "PCout[31]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "clr",
+					"strict" : false
+				},
+				{
+					"name" : "ld",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[9]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[10]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[11]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[12]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[13]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[14]",
+					"strict" : false
+				},
+				{
+					"name" : "RIin[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

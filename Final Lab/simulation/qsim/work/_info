@@ -1,0 +1,190 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/Final Lab/simulation/qsim
+Emejia_pcadder_dec5
+Z1 w1607537433
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+R0
+Z9 8mejia_sc_cpu_Dec5.vho
+Z10 Fmejia_sc_cpu_Dec5.vho
+l0
+L37
+V0P7Id?CoKcND_@J]o2J4S2
+!s100 8C<@Ma84kolbfmHISCGHT3
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1607537435
+!i10b 1
+Z13 !s108 1607537434.000000
+Z14 !s90 -work|work|mejia_sc_cpu_Dec5.vho|
+Z15 !s107 mejia_sc_cpu_Dec5.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 18 mejia_pcadder_dec5 0 22 0P7Id?CoKcND_@J]o2J4S2
+l145
+L76
+VHR@51RBT4em<iiPSo15k`3
+!s100 elHa0O4UzSbYFA;GckAmn1
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Emejia_pcadder_dec5_vhd_vec_tst
+Z18 w1607537431
+R6
+R7
+R0
+Z19 8Waveform1.vwf.vht
+Z20 FWaveform1.vwf.vht
+l0
+L32
+VlznGI@mLBiFd<<`Y<5PQG1
+!s100 iIo::G1N[NK4PcfPFaAGW2
+R11
+32
+R12
+!i10b 1
+Z21 !s108 1607537435.000000
+Z22 !s90 -work|work|Waveform1.vwf.vht|
+Z23 !s107 Waveform1.vwf.vht|
+!i113 1
+R16
+R17
+Amejia_pcadder_dec5_arch
+R6
+R7
+DEx4 work 30 mejia_pcadder_dec5_vhd_vec_tst 0 22 lznGI@mLBiFd<<`Y<5PQG1
+l51
+L34
+VdOc1Z3OQbmjT4A>9`87oB2
+!s100 lQObaSkEzJZeh7h6_C_Ao0
+R11
+32
+R12
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R16
+R17
+Emejia_sc_cpu_dec5
+Z24 w1607902983
+R3
+R5
+R8
+R2
+Z25 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+R4
+R6
+R7
+Z26 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+R9
+R10
+l0
+L39
+V1EfDN^0[3^^4BZZzI9[`S0
+!s100 i>;2:lSP7agAeo]F_MEAS2
+R11
+32
+!s110 1607902984
+!i10b 1
+Z27 !s108 1607902984.000000
+R14
+R15
+!i113 1
+R16
+R17
+Astructure
+R3
+R5
+R8
+R2
+R25
+R4
+R6
+R7
+R26
+DEx4 work 17 mejia_sc_cpu_dec5 0 22 1EfDN^0[3^^4BZZzI9[`S0
+l6741
+L200
+VQT9Z2oA`N9H51obG@h1O]2
+!s100 5coVR?5REUo98Zfnb?ZCW2
+R11
+32
+!s110 1607902985
+!i10b 1
+R27
+R14
+R15
+!i113 1
+R16
+R17
+Emejia_sc_cpu_dec5_vhd_vec_tst
+Z28 w1607902981
+R6
+R7
+R0
+Z29 8Waveform.vwf.vht
+Z30 FWaveform.vwf.vht
+l0
+L32
+VPSZ;OM[3^4>Dcd8VQmh_^0
+!s100 Sj[Tc=:H@Vz0]e`M]5DDZ2
+R11
+32
+Z31 !s110 1607902986
+!i10b 1
+Z32 !s108 1607902985.000000
+Z33 !s90 -work|work|Waveform.vwf.vht|
+Z34 !s107 Waveform.vwf.vht|
+!i113 1
+R16
+R17
+Amejia_sc_cpu_dec5_arch
+R6
+R7
+Z35 DEx4 work 29 mejia_sc_cpu_dec5_vhd_vec_tst 0 22 PSZ;OM[3^4>Dcd8VQmh_^0
+l61
+L34
+VDnKH@kYg9fC=PJQ2RB0Nh0
+!s100 oASVVS^1`Q2d5o58olNb93
+R11
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R16
+R17

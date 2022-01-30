@@ -1,0 +1,194 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/Assignment 7/simulation/qsim
+Emejia_lw_nov29
+Z1 w1606892267
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z11 8mejia_sw_Nov28.vho
+Z12 Fmejia_sw_Nov28.vho
+l0
+L39
+V<FVGS9[7iGOeQ6=<d_:XE2
+!s100 <Qe4=YlUD[KeYY5QiFAQZ1
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1606892268
+!i10b 1
+Z15 !s108 1606892268.000000
+Z16 !s90 -work|work|mejia_sw_Nov28.vho|
+Z17 !s107 mejia_sw_Nov28.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 14 mejia_lw_nov29 0 22 <FVGS9[7iGOeQ6=<d_:XE2
+l2170
+L335
+V2niL78;b6CGUD^HA4SEFb1
+!s100 n[@<YNU<n47E9763mPWSj1
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Emejia_lw_nov29_vhd_vec_tst
+Z20 w1606892265
+R8
+R9
+R0
+Z21 8Waveform1.vwf.vht
+Z22 FWaveform1.vwf.vht
+l0
+L32
+V]5;O4OQZGR8DZCco>bd5a0
+!s100 VgGF?jNJSDWR;T8k>N>eL3
+R13
+32
+R14
+!i10b 1
+R15
+Z23 !s90 -work|work|Waveform1.vwf.vht|
+Z24 !s107 Waveform1.vwf.vht|
+!i113 1
+R18
+R19
+Amejia_lw_nov29_arch
+R8
+R9
+DEx4 work 26 mejia_lw_nov29_vhd_vec_tst 0 22 ]5;O4OQZGR8DZCco>bd5a0
+l85
+L34
+VzRoYje64jhHUMkQS9e>K;1
+!s100 mVJkH2JPk_[9H:GX6H[CW3
+R13
+32
+R14
+!i10b 1
+R15
+R23
+R24
+!i113 1
+R18
+R19
+Emejia_sw_nov28
+Z25 w1606894405
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R0
+R11
+R12
+l0
+L39
+VIIN`om7d]<GaB=XbjPWV?2
+!s100 bFU^i>d`E^JEV7I0LK5gH3
+R13
+32
+!s110 1606894405
+!i10b 1
+Z26 !s108 1606894405.000000
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 14 mejia_sw_nov28 0 22 IIN`om7d]<GaB=XbjPWV?2
+l2052
+L331
+VIMXGBk;MHf^K@R@eEgf0;0
+!s100 5:2UP^5W_S^5ZMeTo=bHd3
+R13
+32
+Z27 !s110 1606894406
+!i10b 1
+R26
+R16
+R17
+!i113 1
+R18
+R19
+Emejia_sw_nov28_vhd_vec_tst
+Z28 w1606894403
+R8
+R9
+R0
+Z29 8Waveform.vwf.vht
+Z30 FWaveform.vwf.vht
+l0
+L32
+Vael<6^[C09L?h2=3cTDzf1
+!s100 X22f61fE2<C87aik`O5fN3
+R13
+32
+R27
+!i10b 1
+Z31 !s108 1606894406.000000
+Z32 !s90 -work|work|Waveform.vwf.vht|
+Z33 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Amejia_sw_nov28_arch
+R8
+R9
+Z34 DEx4 work 26 mejia_sw_nov28_vhd_vec_tst 0 22 ael<6^[C09L?h2=3cTDzf1
+l81
+L34
+VdR7U1=jPQCBOTQ4?7aGUj0
+!s100 <]3MK[@e;B0]XoAQem0JX0
+R13
+32
+R27
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R18
+R19

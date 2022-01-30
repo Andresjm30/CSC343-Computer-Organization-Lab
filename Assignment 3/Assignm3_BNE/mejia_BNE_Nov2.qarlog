@@ -1,0 +1,30 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE_Nov2.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE_Nov2.qar
+Date:		Sun Nov 01 23:40:37 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Assignm3_BNE/extend32.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE.qpf
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE.qsf
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_BNE_tb.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_add.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder1.cmp
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder1.qip
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder1.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder2.cmp
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder2.qip
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_adder2.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_comparator.cmp
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_comparator.qip
+D:/Documents/Quartus Projects/Assignm3_BNE/mejia_comparator.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/mux2to1.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/offset16.vhd
+D:/Documents/Quartus Projects/Assignm3_BNE/register32.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 19 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

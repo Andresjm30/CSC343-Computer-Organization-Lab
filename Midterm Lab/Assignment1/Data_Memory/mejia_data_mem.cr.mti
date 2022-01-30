@@ -1,0 +1,18 @@
+{D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Data_Memory/mejia_data_mem_Nov6_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Data_Memory/mejia_data_mem_Nov6_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_data_mem_Nov6_tb
+-- Compiling architecture arch_tb of mejia_data_mem_Nov6_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Data_Memory/mejia_data_mem_Nov6.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Data_Memory/mejia_data_mem_Nov6.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity mejia_data_mem_Nov6
+-- Compiling architecture SYN of mejia_data_mem_nov6
+
+} {} {}}

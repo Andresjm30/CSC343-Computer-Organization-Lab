@@ -1,0 +1,86 @@
+{D:/Documents/Quartus Projects/Assignm3_BEQ/Comparator1.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/Comparator1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Comparator1
+-- Compiling architecture SYN of comparator1
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_BEQ.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_BEQ.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_BEQ
+-- Compiling architecture arch of mejia_BEQ
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_BEQ_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_BEQ_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_BEQ_tb
+-- Compiling architecture arch_tb of mejia_BEQ_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_adder1.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_adder1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_adder1
+-- Compiling architecture SYN of mejia_adder1
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_add.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_add.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mejia_add
+-- Compiling architecture arch of mejia_add
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_extend32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_extend32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_extend
+-- Compiling architecture arch of mejia_extend
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_mux.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_mux.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_mux
+-- Compiling architecture arch of mejia_mux
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_adder2.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_adder2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_adder2
+-- Compiling architecture SYN of mejia_adder2
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_register32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_register32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_reg_32
+-- Compiling architecture arch of mejia_reg_32
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_offset16.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_BEQ/mejia_offset16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_offset
+-- Compiling architecture arch of mejia_offset
+
+} {} {}}

@@ -1,0 +1,19 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.qar
+Date:		Wed Nov 11 11:16:31 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/Waveform.vwf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.cmp
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.mif
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.qip
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.qpf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.qsf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment1/Register_File/mejia_reg_file_Nov7.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

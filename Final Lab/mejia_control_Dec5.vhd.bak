@@ -1,0 +1,94 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity mejia_control_Dec5 is
+	port(opcode : in std_logic_vector(5 downto 0);
+		  RegWr, ExtOP, ALUsrc : out std_logic;
+		  MmeWr, MemToReg, PCsrc : out std_logic;
+		  ALUctr : out std_logic_vector(3 downto 0));
+end mejia_control_Dec5;
+
+architecture arch of mejia_control_Dec5 is
+
+begin 
+
+	process(opcode, RegWr, ExtOP, ALUsrc, MmeWr, MemToReg, PCsrc, ALUctr) is
+	begin 
+	
+		case opcode is
+			when "000001" => 
+				RegWr <= '1';
+				ExtOP <= '0';
+				ALUsrc <= '0';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0001";
+			when "000010" => 
+				RegWr <= '1';
+				ExtOP <= '0';
+				ALUsrc <= '0';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0010";
+			when "000011" => 
+				RegWr <= '1';
+				ExtOP <= '0';
+				ALUsrc <= '0';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0011";
+			when "000100" => 
+				RegWr <= '1';
+				ExtOP <= '1';
+				ALUsrc <= '1';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0100";
+			when "000101" => 
+				RegWr <= '1';
+				ExtOP <= '0';
+				ALUsrc <= '0';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0101";
+			when "000110" => 
+				RegWr <= '1';
+				ExtOP <= '1';
+				ALUsrc <= '1';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0110";
+			when "000111" => 
+				RegWr <= '1';
+				ExtOP <= '1';
+				ALUsrc <= '1';
+				MemWr <= '0';
+				MemToReg <= '1';
+				PCsrc <= '0';
+				ALUctr <= "0001";
+			when "001000" => 
+				RegWr <= '0';
+				ExtOP <= '1';
+				ALUsrc <= '1';
+				MemWr <= '1';
+				MemToReg <= '1';
+				PCsrc <= '0';
+				ALUctr <= "0001";
+			when others => 
+				RegWr <= '0';
+				ExtOP <= '0';
+				ALUsrc <= '0';
+				MemWr <= '0';
+				MemToReg <= '0';
+				PCsrc <= '0';
+				ALUctr <= "0000";
+		end case;
+	end process;
+	
+end arch;

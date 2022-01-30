@@ -1,0 +1,26 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+ 
+entity mejia_fulladd32_Nov16 is
+	Port( Ain : in std_logic_vector(31 downto 0);
+			Bin : in std_logic_vector(31 downto 0);
+			Cin : in std_logic_vector(31 downto 0);
+			Sout: out std_logic_vector(31 downto 0));
+end mejia_fulladd32_Nov16;
+
+architecture arch of mejia_fulladd32_Nov16 is
+
+	component mejia_fulladd_Nov16
+		Port ( A : in STD_LOGIC;
+				 B : in STD_LOGIC;
+				 Cin : in STD_LOGIC:= '0';
+				 S : out STD_LOGIC;
+				 Cout : out STD_LOGIC);
+	end component;
+	
+	signal C : std_logic_vector(31 downto 0);
+	
+	begin
+		C <= Cin;
+		
+	ADD1 : mejia_fulladd32_Nov16 port map( 

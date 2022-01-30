@@ -1,0 +1,24 @@
+<internal_error>
+<sub_system>ERR</sub_system>
+<callstack>
+	0x7ff9b71d3e48: KERNELBASE + 0x23e48
+	0x7ff9a1e8ef62: MSVCR120 + 0x5ef62
+	0x7ff9a1e969af: MSVCR120 + 0x669af
+	0x7ff98873b7bb: cbx_stratix + 0x1b7bb
+	0x7ff991991882: cbx_mgl + 0x31882
+	0x7ff99197c575: cbx_mgl + 0x1c575
+	0x7ff98891ce4e: cbx_altsyncram + 0x2ce4e
+	0x7ff988915e50: cbx_altsyncram + 0x25e50
+	0x7ff9919e3fa4: cbx_mgl + 0x83fa4
+	0x7ff9919eeafe: cbx_mgl + 0x8eafe
+	0x7ff9b0107004: cbx_loader + 0x7004 (std::`dynamic initializer for &apos;_Fac_tidy_reg&apos;&apos; + 0x5f58)
+	0x7ff640334ea0: clearbox + 0x4ea0 (main + 0x11d0)
+	0x7ff6403354ba: clearbox + 0x54ba (__tmainCRTStartup + 0x10e)
+	0x7ff9b8477033: KERNEL32 + 0x17033 (BaseThreadInitThunk + 0x13)
+	0x7ff9b987cec0: ntdll + 0x4cec0 (RtlUserThreadStart + 0x20)
+</callstack>
+<error>*** Fatal Error: Uncaught C++ Exception</error>
+<date>Sat Nov 28 21:01:38 2020
+</date>
+<version>Version 16.1.0 Build 196 10/24/2016 SJ Standard Edition</version>
+</internal_error>

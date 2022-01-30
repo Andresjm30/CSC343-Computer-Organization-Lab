@@ -1,0 +1,53 @@
+{D:/Documents/Quartus Projects/Assignm3_Jump/extend32.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/extend32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_extend
+-- Compiling architecture arch of mejia_extend
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_jump.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_jump.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_jump
+-- Compiling architecture arch of mejia_jump
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_jump_tb.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_jump_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_jump_tb
+-- Compiling architecture arch_tb of mejia_jump_tb
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Jump/register32.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/register32.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_reg_32
+-- Compiling architecture arch of mejia_reg_32
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_shift.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/mejia_shift.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mejia_shift
+-- Compiling architecture arch of mejia_shift
+
+} {} {}} {D:/Documents/Quartus Projects/Assignm3_Jump/register16.vhd} {1 {vcom -work mejia_work -2002 -explicit -stats=none {D:/Documents/Quartus Projects/Assignm3_Jump/register16.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mejia_reg16
+-- Compiling architecture arch of mejia_reg16
+
+} {} {}}

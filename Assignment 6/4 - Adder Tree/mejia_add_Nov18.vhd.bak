@@ -1,0 +1,17 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use ieee.numeric_std.all;
+ 
+entity mejia_add_Nov18 is
+	Port ( A : in STD_LOGIC;
+			 B : in STD_LOGIC;
+			 S : out STD_LOGIC;);
+end mejia_add_Nov18;
+
+architecture arch of mejia_add32_Nov18 is 
+
+begin 
+	
+	S <= A + B;
+
+end arch;

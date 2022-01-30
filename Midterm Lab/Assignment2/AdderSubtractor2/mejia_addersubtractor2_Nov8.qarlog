@@ -1,0 +1,20 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_addersubtractor2_Nov8.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_addersubtractor2_Nov8.qar
+Date:		Wed Nov 11 11:16:55 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/Waveform.vwf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_addersubtractor2_Nov8.qpf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_addersubtractor2_Nov8.qsf
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_addersubtractor2_Nov8.vhd
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_megaddsub_Nov8.cmp
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_megaddsub_Nov8.qip
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_megaddsub_Nov8.vhd
+D:/Documents/Quartus Projects/Midterm Lab/Assignment2/AdderSubtractor2/mejia_mux2to1_Nov8.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Dec 02 02:01:05 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : mejia_sw_Nov28
+Top-level Entity Name : mejia_sw_Nov28
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 124
+Total pins : 264
+Total virtual pins : 0
+Total block memory bits : 2,099,200
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

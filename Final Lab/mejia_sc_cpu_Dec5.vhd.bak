@@ -1,0 +1,19 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity mejia_sc_cpu_Dec6 is
+	port( instr : in std_logic_vector(4 downto 0);
+			RS, RT, RD : out std_logic_vector(31 downto 0);
+			result : out std_logic_vector(31 downto 0));
+end mejia_sc_cpu_Dec6;
+
+architecture arch of mejia_sc_cpu_Dec6 is
+
+	component mejia_mux_Dec5 is
+		Port (SEL : in  STD_LOGIC;
+				A   : in  STD_LOGIC_VECTOR (31 downto 0);
+				B   : in  STD_LOGIC_VECTOR (31 downto 0);
+				X   : out STD_LOGIC_VECTOR (31 downto 0));
+	end component;
+	
+	component  component;

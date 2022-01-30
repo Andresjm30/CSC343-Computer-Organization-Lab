@@ -1,0 +1,404 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Quartus Projects/Assignment 6/3 - Array Multiplier (nbadder)
+Emejia_div32_nov19
+Z0 w1605844999
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Quartus Projects/Assignment 6/6 - Divider
+Z4 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd
+Z5 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd
+l0
+L4
+Vih=ZKicozz]`C2H[aeQZ01
+!s100 fTji3QRDId0`DIcV@?`_?1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1606101399
+!i10b 1
+Z8 !s108 1606101399.000000
+Z9 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd|
+Z10 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div32_Nov19.vhd|
+!i113 1
+Z11 o-work mejia_work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+DEx4 work 17 mejia_div32_nov19 0 22 ih=ZKicozz]`C2H[aeQZ01
+l27
+L12
+VV3KckhDMkl9;b;^?eefk[1
+!s100 :OY54oO8X5^ZZGD97f5<G3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emejia_div_nov19
+Z13 w1605819586
+R1
+R2
+R3
+Z14 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd
+Z15 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd
+l0
+L4
+VJjmlJ=LzkJz8F`:2RK?BE1
+!s100 FgKB]T;?b6^OnVc2aiSRh3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd|
+Z17 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_div_Nov19.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 15 mejia_div_nov19 0 22 JjmlJ=LzkJz8F`:2RK?BE1
+l28
+L9
+Vhl?l1EP799RlANi3S3Y^b0
+!s100 `M_F1:YF[EP>k1a^]NK1H0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Emejia_divide32_nov19
+Z18 w1605994284
+R1
+R2
+R3
+Z19 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd
+Z20 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd
+l0
+L43
+V<1[PNN[ImZ[z1SSG^VdE?0
+!s100 J3hZN78e:6zXj:9VZ0@dV1
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd|
+Z22 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divide32_Nov19.vhd|
+!i113 1
+R11
+R12
+Asyn
+R1
+R2
+DEx4 work 20 mejia_divide32_nov19 0 22 <1[PNN[ImZ[z1SSG^VdE?0
+l78
+L54
+VW]Rm_^aG<>L0LKIBk`AaW1
+!s100 7N`l:H4fdCZBLz8LmBeId0
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Emejia_divider2_nov19
+Z23 w1605996774
+R1
+R2
+R3
+Z24 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd
+Z25 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd
+l0
+L4
+VnU00HPlf]4T74]4`mPT6B0
+!s100 R0[UUe_daVZ8ez3jPT?f01
+R6
+32
+Z26 !s110 1606101400
+!i10b 1
+Z27 !s108 1606101400.000000
+Z28 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd|
+Z29 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 20 mejia_divider2_nov19 0 22 nU00HPlf]4T74]4`mPT6B0
+l28
+L10
+VJP;Rn:Y^[V0H30aF>hlQR3
+!s100 =?9]P?fBMbdNo>nk46[Yi0
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Emejia_divider2_nov19_tb
+Z30 w1606007662
+Z31 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z32 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd
+Z33 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd
+l0
+L5
+V6QPEa2>UjFM<z<A6K;Y6b0
+!s100 MM=?6RGnfn6;GKCQULg872
+R6
+32
+R26
+!i10b 1
+R27
+Z34 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd|
+Z35 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider2_Nov19_tb.vhd|
+!i113 1
+R11
+R12
+Aarch_tb
+R31
+R1
+R2
+DEx4 work 23 mejia_divider2_nov19_tb 0 22 6QPEa2>UjFM<z<A6K;Y6b0
+l21
+L8
+VTZD=ale@[1VX]20Elz33J0
+!s100 l_eB4D@L2Hg7ahHB6SNa^1
+R6
+32
+R26
+!i10b 1
+R27
+R34
+R35
+!i113 1
+R11
+R12
+Emejia_divider_nov19
+Z36 w1605838205
+R1
+R2
+R3
+Z37 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd
+Z38 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd
+l0
+L4
+V[TUfJ<h[R`9ddXKbVGR8d3
+!s100 ISXehkLTi[MNIo>b1XO?c1
+R6
+32
+R26
+!i10b 1
+R27
+Z39 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd|
+Z40 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_divider_Nov19.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 19 mejia_divider_nov19 0 22 [TUfJ<h[R`9ddXKbVGR8d3
+l39
+L10
+V3HdNli1gUcHP5hTOM;YEK3
+!s100 WI[d64c0LjN`K3D<=GO7J1
+R6
+32
+R26
+!i10b 1
+R27
+R39
+R40
+!i113 1
+R11
+R12
+Emejia_fs_nov19
+Z41 w1605912507
+R1
+R2
+R3
+Z42 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd
+Z43 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd
+l0
+L4
+VV0o1_[Y2ea<Jkcj<lc8@E3
+!s100 G9Ec5fO^KLH;FM<X0G;_T3
+R6
+32
+R26
+!i10b 1
+R27
+Z44 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd|
+Z45 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_FS_Nov19.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 14 mejia_fs_nov19 0 22 V0o1_[Y2ea<Jkcj<lc8@E3
+l14
+L12
+VRZWIMD8LabnKjo6IY_jlY2
+!s100 ADO;Rzea0[ezcS<[V;T?g3
+R6
+32
+R26
+!i10b 1
+R27
+R44
+R45
+!i113 1
+R11
+R12
+Emejia_mux2to1_nov19
+Z46 w1605809187
+Z47 DPx3 lpm 14 lpm_components 0 22 0DgdZ0FA1O:[J5aQOXi891
+R1
+R2
+R3
+Z48 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd
+Z49 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd
+l0
+L43
+V[9KN8eU>eYUX7`<a>H7NH1
+!s100 dNQT@G2JHWdhNM0i2U:I92
+R6
+32
+R26
+!i10b 1
+R27
+Z50 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd|
+Z51 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_mux2to1_Nov19.vhd|
+!i113 1
+R11
+R12
+Asyn
+R47
+R1
+R2
+DEx4 work 19 mejia_mux2to1_nov19 0 22 [9KN8eU>eYUX7`<a>H7NH1
+l66
+L54
+V@hPkc?66H9cZB1g3=<TFU3
+!s100 HI8P1Z@nXPQ=<cRGSaDL_2
+R6
+32
+R26
+!i10b 1
+R27
+R50
+R51
+!i113 1
+R11
+R12
+Emejia_not_nov19
+Z52 w1605822142
+R1
+R2
+R3
+Z53 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd
+Z54 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd
+l0
+L4
+V=VV^P;8?ajB9gccaW3C1M0
+!s100 ad?QzC:kUZi_KJz^YWB1V3
+R6
+32
+R26
+!i10b 1
+R27
+Z55 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd|
+Z56 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_not_Nov19.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+Z57 DEx4 work 15 mejia_not_nov19 0 22 =VV^P;8?ajB9gccaW3C1M0
+l11
+L9
+Z58 VE>SjIEV=CYVFW?UQOz3^k2
+Z59 !s100 ^_;zB4=S5JF_Xj2AQeQf51
+R6
+32
+R26
+!i10b 1
+R27
+R55
+R56
+!i113 1
+R11
+R12
+Emejia_register32_nov16
+Z60 w1605831352
+R1
+R2
+R3
+Z61 8D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd
+Z62 FD:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd
+l0
+L4
+VJ`SGFzJWKOZPzomz_KnZV2
+!s100 V=n<KT8B>mUG4M49Yg>_Y2
+R6
+32
+R7
+!i10b 1
+R8
+Z63 !s90 -reportprogress|300|-work|mejia_work|-2002|-explicit|-stats=none|D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd|
+Z64 !s107 D:/Documents/Quartus Projects/Assignment 6/6 - Divider/mejia_register32_Nov16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R1
+R2
+DEx4 work 22 mejia_register32_nov16 0 22 J`SGFzJWKOZPzomz_KnZV2
+l12
+L11
+VL?T8FT]_WX?MOMKm<=d9I1
+!s100 XT3^:Z`C25gaHazTG3@1=1
+R6
+32
+R7
+!i10b 1
+R8
+R63
+R64
+!i113 1
+R11
+R12

@@ -1,0 +1,194 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/Assignment 6/6 - Divider/simulation/qsim
+Emejia_divider2_nov19
+Z1 w1605923482
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z11 8mejia_divider_Nov19.vho
+Z12 Fmejia_divider_Nov19.vho
+l0
+L39
+Vld3cAFHzo`^3=ETF]`?Y=1
+!s100 ^UYQTc?@bgH[k9>7d<bQb0
+Z13 OV;C;10.5b;63
+32
+!s110 1605923483
+!i10b 1
+Z14 !s108 1605923483.000000
+Z15 !s90 -work|work|mejia_divider_Nov19.vho|
+Z16 !s107 mejia_divider_Nov19.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 20 mejia_divider2_nov19 0 22 ld3cAFHzo`^3=ETF]`?Y=1
+l4430
+L185
+VVfS;?oDISICRHD:h3[KC22
+!s100 ?Ra:28`hR`VdalV5d]ndY3
+R13
+32
+!s110 1605923484
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Emejia_divider2_nov19_vhd_vec_tst
+Z19 w1605923477
+R8
+R9
+R0
+Z20 8Waveform1.vwf.vht
+Z21 FWaveform1.vwf.vht
+l0
+L32
+V02o]1>0aA;840>aE?n>OC3
+!s100 gU?l^53>TcESWN;lh_Jci0
+R13
+32
+Z22 !s110 1605923485
+!i10b 1
+Z23 !s108 1605923485.000000
+Z24 !s90 -work|work|Waveform1.vwf.vht|
+Z25 !s107 Waveform1.vwf.vht|
+!i113 1
+R17
+R18
+Amejia_divider2_nov19_arch
+R8
+R9
+Z26 DEx4 work 32 mejia_divider2_nov19_vhd_vec_tst 0 22 02o]1>0aA;840>aE?n>OC3
+l55
+L34
+VL[:m_bmIDljXLZlJL9Z:l1
+!s100 50;IVVg8=UOonV>8ATln<2
+R13
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R17
+R18
+Emejia_divider_nov19
+Z27 w1605844294
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R0
+R11
+R12
+l0
+L39
+VoaoBELPSzHRa3olA]Wl3n2
+!s100 AZ?gFdjn<RoG@U4GUEQbf0
+R13
+32
+!s110 1605844296
+!i10b 1
+Z28 !s108 1605844296.000000
+R15
+R16
+!i113 1
+R17
+R18
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 19 mejia_divider_nov19 0 22 oaoBELPSzHRa3olA]Wl3n2
+l4424
+L185
+VjTo6LH^?3l>LGEZWQlC9b2
+!s100 =<a5GGlB@0Ic1aZjTGj[K3
+R13
+32
+!s110 1605844297
+!i10b 1
+R28
+R15
+R16
+!i113 1
+R17
+R18
+Emejia_divider_nov19_vhd_vec_tst
+Z29 w1605844290
+R8
+R9
+R0
+Z30 8Waveform.vwf.vht
+Z31 FWaveform.vwf.vht
+l0
+L32
+VmX701df?FQCFFTfG7GX[c3
+!s100 I1QdWWK1gZ3Bd2OA``Qej0
+R13
+32
+Z32 !s110 1605844298
+!i10b 1
+Z33 !s108 1605844297.000000
+Z34 !s90 -work|work|Waveform.vwf.vht|
+Z35 !s107 Waveform.vwf.vht|
+!i113 1
+R17
+R18
+Amejia_divider_nov19_arch
+R8
+R9
+DEx4 work 31 mejia_divider_nov19_vhd_vec_tst 0 22 mX701df?FQCFFTfG7GX[c3
+l55
+L34
+V8YbQmdBCIke>;=j]@Slm^1
+!s100 E4i4^^nJJ=QYZllnE^34l0
+R13
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R17
+R18

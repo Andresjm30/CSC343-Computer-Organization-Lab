@@ -1,0 +1,18 @@
+Quartus Prime Archive log --	D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Nov2.qarlog
+
+Archive:	D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Nov2.qar
+Date:		Sun Nov 01 23:47:53 2020
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Oct28.qpf
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Oct28.qsf
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Oct28.vhd
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_Oct28_tb.vhd
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_or_op_Oct28.vhd
+D:/Documents/Quartus Projects/Assignment 4/Assign_or/mejia_register32_Oct28.vhd
+d:/programs/intelfpga_lite/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 7 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

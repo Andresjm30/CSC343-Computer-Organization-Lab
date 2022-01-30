@@ -1,0 +1,14 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity mejia_stl_Oct28 is port(
+	clk, ld, clr: in std_logic;
+	RSin, RTin:   in std_logic_vector(31 downto 0);
+	RDout:        out std_logic_vector(31 downto 0));
+end mejia_stl_Oct28;
+
+
+architecture arch of mejia_stl_Oct28 is
+
+end arch;
